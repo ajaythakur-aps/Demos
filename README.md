@@ -1,3 +1,3 @@
 # Demos
-First Prog
-Atuthor- AJ
+First Program
+Author- AJ
